@@ -1,7 +1,9 @@
 {
-  "name": "contact-manager-cli",
+  "name": "contact",
   "version": "1.0.0",
   "main": "app",
+  "preferGlobal": true,
+  "bin": "./contact.js",
   "author": "Naim Jeem",
   "license": "MIT",
   "dependencies": {
